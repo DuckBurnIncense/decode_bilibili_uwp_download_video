@@ -41,5 +41,6 @@
 ```
 bili.py                   #源码
 快捷解密b站视频.exe        #编译后
-WinHex_v20.4_x86_x64.exe  #调试工具WinHex(green版)
+WinHex_v20.4_x86_x64.exe  #调试工具WinHex(green版
+README.md                 #就是你现在正在看的这个说明文件
 ```
